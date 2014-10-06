@@ -1,7 +1,0 @@
-Spare NotSpare Strike Strike
-
-
-=> Strike None None
-=> Strike Some(Strike) None
-=> NotSpare Some(Strike) Some(Strike)
-=> Spare Some(NotSpare) Some(Strike)
